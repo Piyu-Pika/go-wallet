@@ -308,13 +308,6 @@ The project includes unit tests for all handlers in `internal/handler/handlers_t
    ```
    - Open `coverage.html` in a browser to view coverage details.
 
-4. **Run Tests Using Script**:
-   - Use the provided `run_tests.sh` script for automated testing:
-   ```bash
-   chmod +x run_tests.sh
-   ./run_tests.sh
-   ```
-   - The script runs tests, generates coverage reports, and supports Docker (if enabled).
 
 
 ## License
