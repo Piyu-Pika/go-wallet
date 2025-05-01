@@ -114,6 +114,9 @@ go-wallet/
 
 3. **Access the API**:
    - The API will be available at `http://localhost:8080`.
+  
+## Try at
+  -  Try the deployed API at  `https://go-wallet.leapcell.app`
 
 ## API Documentation
 
